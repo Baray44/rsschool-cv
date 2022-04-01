@@ -10,7 +10,7 @@
 ## **About Me**
 *I am graduating with a master's degree in the design of intelligent computer systems" of Peter the Great St. Petersburg Polytechnic University. At university, I had experience working in a team to develop a utility to simplify commit history in GIT as a project manager [GitHub, Git history linearizer](https://github.com/luxdarkr/git_history_linearizer). He also received a bachelor's degree in Department of Computer Science and Information Protection at the Ufa State Aviation Technical University.
 In parallel with programming, I study software testing. In the future, I want to combine the knowledge gained in these areas in order to automate testing. For me, the main task is to gain knowledge and experience in the field of programming and software testing.
-Thanks to my long experience in sales, I can find approach to people. I am sociable, attentive, love to learn and know how to properly distribute your time and work as a team.
+Thanks to my long experience in sales, I can find approach to people. I am sociable, attentive, love to learn and know how to properly distribute your time and work as a team.*
 
 ## **Skills**
 - *JavaScript (Basic)*
