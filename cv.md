@@ -1,4 +1,5 @@
 # **Damir Baraev**
+![Damir Baraev](https://github.com/Baray44/rsschool-cv/blob/rsschool-cv-html/rsschool-cv/img/dog.jpg "Hi, it's not me")
 
 ## **Contacts**
 - **Location:** *Saint-Petersburg, Russia*
