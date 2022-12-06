@@ -19,9 +19,10 @@ I am sociable, attentive, love to learn and know how to properly allocate my tim
 - [Test documentation (test cases, checklists, bug
 reports, user manuals)](https://github.com/Baray44/QA_Slack/tree/master/TestDocumentation)
 - [Git, Bash, working with the command line](https://github.com/Baray44/qa_course/tree/qa_homework/Homework_GitBash)
-- [SQL (Medium)](https://github.com/Baray44/SQL_Practice)
+- VMware, VirtualBox
+- [SQL (Medium): writing queries to the database, building samples, statistics, searching for necessary data](https://github.com/Baray44/SQL_Practice)
 - Understanding of HTTP/HTTPS, REST API, JSON/XML
-- DevTools
+- DevTools: bypassed client validation, swapped cookies, edited the DOM
 - Basic knowledge of Agile, Scrum, Waterfall. Experience of working in Scrum team on university projects
 - Jira and Confluence, Trello
 - [OS administration experience: Windows, Windows Server, Linux, FreeBSD, NetBSD](https://github.com/Baray44/polytech20_22/tree/main/2/AKS)
