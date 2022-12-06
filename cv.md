@@ -55,7 +55,6 @@ ER-Telecom Holding, CJSC | 2017—2019<br>
 Recognized as the best rookie in his first month and was named manager of the month several times.
 Mentored his own subgroup, trained interns, and monitored the performance of his subgroup.
 
-
 ## **Education**
 - **University:**
     - ***Peter the Great St. Petersburg Polytechnic University, Master's Degree Program***
