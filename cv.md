@@ -35,7 +35,7 @@ function XO(str) {
 ````
 
 ## **Experience**
-**Project Manager**<br>
+### **Project Manager**<br>
 Huawei Technologies | February 2021 — July 2021<br>
 
 Worked on a commercial project from Huawei at Peter the Great St. Petersburg Polytechnic University in the team to develop a utility to simplify the history of commits in GIT.
@@ -43,20 +43,21 @@ Maintained the project in the [repository on GitHub](https://github.com/luxdarkr
 Conducted communication with customers and supervisors of the project, presented the current state of the project, participated in UNIT-testing, distribution of tasks among the project members, maintaining documentation.
 
 ---
-**Sales manager**<br>
+### **Sales manager**<br>
 Rostelecom | 2019 — 2021<br>
 
 In the first month he was recognized as the best newcomer. Several times he became the best manager at the end of the month. Within a year of work was mentored his own subgroup, trained trainees and accompanied them during the first months.<br>
 
 ---
-**Sales manager**<br>
+### **Sales manager**<br>
 ER-Telecom Holding, CJSC | 2017—2019<br>
 
 Recognized as the best rookie in his first month and was named manager of the month several times.
 Mentored his own subgroup, trained interns, and monitored the performance of his subgroup.
 
 ## **Education**
-- **University:**
+- ### **University:**
+
     - ***Peter the Great St. Petersburg Polytechnic University, Master's Degree Program***
     <br>*Computer science and engineering*<br>
     *Master's thesis: "Development of control system of robot's movements on omni-wheels"*
@@ -64,11 +65,12 @@ Mentored his own subgroup, trained interns, and monitored the performance of his
     - ***Ufa State Aviation Technical University, Bachelor's Degree Program***
     <br>*Faculty of computer science and robotics; Informatics and computer science*<br>
     *Bachelor's work: "Development of faulttolerant RBS system for a bank"*
-- **Courses:** 
+- ### **Courses:** 
     - *[The Rolling Scopes School](https://rs.school/js/)*
     - *[Manual QA course (RedRoverSchool)](https://redroverschool.slack.com)*
     - *[Software testing course with practice (Vadim Ksendzov)](https://ksendzov.com)*
+    - *[Interactive SQL Trainer](https://stepik.org/course/63054/info)*
 
 ## **Languages**
-- English - Pre-Intermediate
-- Russian - Native
+- **English** - Pre-Intermediate
+- **Russian** - Native
