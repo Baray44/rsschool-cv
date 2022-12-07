@@ -1,5 +1,5 @@
 # **Damir Baraev**
-![Damir Baraev]("D:\rs_school\rsschool-cv\img\baraev.jpg" "Hi, it's me")
+![Damir Baraev]("https://github.com/Baray44/rsschool-cv/blob/rsschool-cv-html/img/baraev.jpg" "Hi, it's me")
 
 ## **Contacts**
 - **Location:** *Saint-Petersburg, Russia*
@@ -37,7 +37,7 @@ function XO(str) {
 
 ## **Experience**
 ### **Project Manager**<br>
-Huawei Technologies | February 2021 — July 2021<br>
+Huawei Technologies | Feb 2021 — July 2021<br>
 
 Worked on a commercial project from Huawei at Peter the Great St. Petersburg Polytechnic University in the team to develop a utility to simplify the history of commits in GIT.
 Maintained the project in the [repository on GitHub](https://github.com/luxdarkr/git_history_linearizer).
@@ -45,13 +45,13 @@ Conducted communication with customers and supervisors of the project, presented
 
 ---
 ### **Sales manager**<br>
-Rostelecom | 2019 — 2021<br>
+Rostelecom | Sep 2019 — Dec 2021<br>
 
 In the first month he was recognized as the best newcomer. Several times he became the best manager at the end of the month. Within a year of work was mentored his own subgroup, trained trainees and accompanied them during the first months.<br>
 
 ---
 ### **Sales manager**<br>
-ER-Telecom Holding, CJSC | 2017—2019<br>
+ER-Telecom Holding, CJSC | Feb 2017 —  Sep 2019<br>
 
 Recognized as the best rookie in his first month and was named manager of the month several times.
 Mentored his own subgroup, trained interns, and monitored the performance of his subgroup.
@@ -59,11 +59,11 @@ Mentored his own subgroup, trained interns, and monitored the performance of his
 ## **Education**
 - ### **University:**
 
-    - **Peter the Great St. Petersburg Polytechnic University, Master's Degree Program**
+    - **Peter the Great St. Petersburg Polytechnic University | Master's Degree Program | 2022**
     <br>Computer science and engineering<br>
     Master's thesis: "Development of control system of robot's movements on omni-wheels"
     ---
-    - **Ufa State Aviation Technical University, Bachelor's Degree Program**
+    - **Ufa State Aviation Technical University | Bachelor's Degree Program | 2020**
     <br>Faculty of computer science and robotics; Informatics and computer science<br>
     Bachelor's work: "Development of faulttolerant RBS system for a bank"
 - ### **Courses:** 
