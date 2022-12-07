@@ -1,5 +1,5 @@
 # **Damir Baraev**
-![Damir Baraev]("D:\Polytech\baraev.jpg" "Hi, it's me")
+![Damir Baraev]("D:\rs_school\rsschool-cv\img\baraev.jpg" "Hi, it's me")
 
 ## **Contacts**
 - **Location:** *Saint-Petersburg, Russia*
