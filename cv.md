@@ -1,5 +1,4 @@
 # **Damir Baraev**
-![Damir Baraev]("https://github.com/Baray44/rsschool-cv/blob/rsschool-cv-html/img/baraev.jpg" "Hi, it's me")
 
 ## **Contacts**
 - **Location:** *Saint-Petersburg, Russia*
@@ -67,10 +66,10 @@ Mentored his own subgroup, trained interns, and monitored the performance of his
     <br>Faculty of computer science and robotics; Informatics and computer science<br>
     Bachelor's work: "Development of faulttolerant RBS system for a bank"
 - ### **Courses:** 
-    - *[The Rolling Scopes School](https://rs.school/js/)*
+    - *[JavaScript/Front-end course (The Rolling Scopes School)](https://rs.school/js/)*
     - *[Manual QA course (RedRoverSchool)](https://redroverschool.slack.com)*
     - *[Software testing course with practice (Vadim Ksendzov)](https://ksendzov.com)*
-    - *[Interactive SQL Trainer](https://stepik.org/course/63054/info)*
+    - *[Interactive SQL Trainer (Stepik)](https://stepik.org/course/63054/info)*
 
 ## **Languages**
 - **English** - Pre-Intermediate
