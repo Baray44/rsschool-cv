@@ -15,8 +15,7 @@ I am sociable, attentive, love to learn and know how to properly allocate my tim
 
 ## **Skills**
 - Functional testing, testing theory, test design techniques, client-server architecture, SDLC, STLC
-- [Test documentation (test cases, checklists, bug
-reports, user manuals)](https://github.com/Baray44/QA_Slack/tree/master/TestDocumentation)
+- [Test documentation (test cases, checklists, bug reports, user manuals)](https://github.com/Baray44/QA_Slack/tree/master/TestDocumentation)
 - [Git, Bash, working with the command line](https://github.com/Baray44/qa_course/tree/qa_homework/Homework_GitBash)
 - VMware, VirtualBox
 - [SQL (Medium): writing queries to the database, building samples, statistics, searching for necessary data](https://github.com/Baray44/SQL_Practice)
@@ -70,6 +69,7 @@ Mentored his own subgroup, trained interns, and monitored the performance of his
     - *[Manual QA course (RedRoverSchool)](https://redroverschool.slack.com)*
     - *[Software testing course with practice (Vadim Ksendzov)](https://ksendzov.com)*
     - *[Interactive SQL Trainer (Stepik)](https://stepik.org/course/63054/info)*
+    - *[HTML and CSS Tutorials (Code Basics)](https://code-basics.com/ru)*
 
 ## **Languages**
 - **English** - Pre-Intermediate
